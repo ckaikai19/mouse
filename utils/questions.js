@@ -57,7 +57,6 @@ const questions = [
   },
 ];
 
-console.log(questions)
 
 
 module.exports = {
